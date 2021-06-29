@@ -5,3 +5,9 @@
   margin-top: auto;
   margin-bottom: auto;
 }
+
+.custom-button-padding {
+  width: 15%;
+  margin-right: 5%;
+  margin-left: 5%;
+}
