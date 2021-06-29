@@ -6,8 +6,22 @@
   margin-bottom: auto;
 }
 
+.headhshot-padding {
+  margin-top: 20px;
+}
+
 .custom-button-padding {
   width: 15%;
   margin-right: 5%;
   margin-left: 5%;
+}
+
+.custom-padded-text {
+  padding-bottom: 3%;
+}
+
+@media (max-width: 480px) {
+  .custom-button-padding {
+    width: 60%;
+  }
 }
